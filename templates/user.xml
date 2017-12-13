@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="stime" value="java.lang.System.currentTimeMillis()" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+</templateSet>
